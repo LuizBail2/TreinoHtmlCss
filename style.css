@@ -1,0 +1,36 @@
+body {
+    margin: 0%;
+}
+
+#logo1 {
+    width: 150px;
+}
+
+#container {
+    background-image: linear-gradient(103.24deg, rgba(160, 11, 11, 0.9) 23.83%, rgba(0, 8, 29, 0.3) 96.1%), url(https://www.comboinfinito.com.br/principal/wp-content/uploads/2021/01/netflix-catalogo.jpg);
+    background-size: cover;
+    height: 700px;
+    padding: 40%;
+}
+
+#header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+select {
+    padding: 2px 15px;
+    font-size: 16px;
+}
+
+#enter1 {
+    padding: 7px 15px;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 14px;
+   
+}
